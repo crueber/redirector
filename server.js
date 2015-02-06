@@ -25,4 +25,5 @@ else {
 }
 
 console.log('Redirector listening on port '+from_port+'.');
+require('./supervisor');
 
